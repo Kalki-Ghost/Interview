@@ -1,0 +1,5 @@
+emp_id|name|salary
+101|Arun|30000
+102|Vijay|42000
+103|Karan|20000
+104|Rohan|52000
