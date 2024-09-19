@@ -10,7 +10,7 @@ else:
 
 for i in string[1:]:
     """The loop for swap the case of alphabet"""
-    # new_string += i.swapcase()
+    # new_string += i.swapcase()cd
     if 65 <= ord(i) <= 90:
         new_string += chr(ord(i) + 32)
     else:
