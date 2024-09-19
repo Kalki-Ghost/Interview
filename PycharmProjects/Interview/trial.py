@@ -1,4 +1,4 @@
-"""The program to print the list without using list(Recursion)"""
+"""The program to print the list without using loop(Recursion)"""
 
 
 def without_loop(list1, start, end):
