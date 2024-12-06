@@ -16,8 +16,8 @@ def fibonacci(number):
     return
 
 
-num = int(input("Enter the range:"))
-if num <= 0:
+number = int(input("Enter the range:"))
+if number <= 0:
     print("Number enter by user is negative.")
 else:
-    fibonacci(num)
+    fibonacci(number)
